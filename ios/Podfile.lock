@@ -1,0 +1,107 @@
+PODS:
+  - AEXML (4.6.0)
+  - assets_audio_player (0.0.1):
+    - Flutter
+  - assets_audio_player_web (0.0.1):
+    - Flutter
+  - epub_viewer (0.0.1):
+    - EpubViewerKit (~> 0.1.2)
+    - Flutter
+  - EpubViewerKit (0.1.2):
+    - AEXML (= 4.6.0)
+    - FontBlaster (= 5.1.1)
+    - MenuItemKit (= 4.0.1)
+    - RealmSwift (= 5.4.8)
+    - SSZipArchive (= 2.2.3)
+    - ZFDragableModalTransition (= 0.6)
+  - Flutter (1.0.0)
+  - FontBlaster (5.1.1)
+  - MenuItemKit (4.0.1)
+  - package_info (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - Realm (5.4.8):
+    - Realm/Headers (= 5.4.8)
+  - Realm/Headers (5.4.8)
+  - RealmSwift (5.4.8):
+    - Realm (= 5.4.8)
+  - Sentry (6.1.4):
+    - Sentry/Core (= 6.1.4)
+  - Sentry/Core (6.1.4)
+  - sentry_flutter (0.0.1):
+    - Flutter
+    - Sentry (~> 6.1.4)
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sms_autofill (0.0.1):
+    - Flutter
+  - SSZipArchive (2.2.3)
+  - ZFDragableModalTransition (0.6)
+
+DEPENDENCIES:
+  - assets_audio_player (from `.symlinks/plugins/assets_audio_player/ios`)
+  - assets_audio_player_web (from `.symlinks/plugins/assets_audio_player_web/ios`)
+  - epub_viewer (from `.symlinks/plugins/epub_viewer/ios`)
+  - Flutter (from `Flutter`)
+  - package_info (from `.symlinks/plugins/package_info/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - sentry_flutter (from `.symlinks/plugins/sentry_flutter/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+  - sms_autofill (from `.symlinks/plugins/sms_autofill/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AEXML
+    - EpubViewerKit
+    - FontBlaster
+    - MenuItemKit
+    - Realm
+    - RealmSwift
+    - Sentry
+    - SSZipArchive
+    - ZFDragableModalTransition
+
+EXTERNAL SOURCES:
+  assets_audio_player:
+    :path: ".symlinks/plugins/assets_audio_player/ios"
+  assets_audio_player_web:
+    :path: ".symlinks/plugins/assets_audio_player_web/ios"
+  epub_viewer:
+    :path: ".symlinks/plugins/epub_viewer/ios"
+  Flutter:
+    :path: Flutter
+  package_info:
+    :path: ".symlinks/plugins/package_info/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  sentry_flutter:
+    :path: ".symlinks/plugins/sentry_flutter/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+  sms_autofill:
+    :path: ".symlinks/plugins/sms_autofill/ios"
+
+SPEC CHECKSUMS:
+  AEXML: 2fbb73d8724797ed2cde888731e176fa4d44dd83
+  assets_audio_player: edee322b9cb625571b830b35872ead1a295fd917
+  assets_audio_player_web: 19826380c44375761aa0b9053665c1e3fbc3b86b
+  epub_viewer: 46bb3de7348b95aa1f50bd229dbb3cb50dc280cf
+  EpubViewerKit: b1c5b8a3d20a3af7bb5398671b15f5a7dcef54e0
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  FontBlaster: 8897ebdbb4b6ace3ab78c92b665d88c954f19e4a
+  MenuItemKit: 1459920e984d823e1bcc858b7a964f94e6bfa0f6
+  package_info: 873975fc26034f0b863a300ad47e7f1ac6c7ec62
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  Realm: 042bbb59227a0159eda397b8a5a49fbd67495ce7
+  RealmSwift: 15ddd6b3398ebfc99810811c44f095df1313adb3
+  Sentry: 9d055e2de30a77685e86b219acf02e59b82091fc
+  sentry_flutter: 8b2b2e1c0101ef562106b5d272d3c0c741512c01
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  sms_autofill: c461043483362c3f1709ee76eaae6eb570b31686
+  SSZipArchive: 62d4947b08730e4cda640473b0066d209ff033c9
+  ZFDragableModalTransition: 0d294eaaba6edfcb9839595de765f9ca06a4b524
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
